@@ -1,6 +1,6 @@
 # Mask-and-social-Distance-level3-
 # Drive Link for Video
-https://drive.google.com/drive/folders/1ZfTz9vmB_lyl7qpC5K4Xjk3zoSoKhocI?usp=sharing
+https://drive.google.com/file/d/1nip1Qiobm5xzjcJ4_OCCMHEvZf7BZ4tC/view?usp=sharing
 
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [https://drive.google.com/file/d/1S_Lsz5Yiv8mBsHEyt8E8l5sSKIAX1zfi/view?usp=sharing) 
